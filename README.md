@@ -1,5 +1,10 @@
 # BotFlow CRM
 
+## Links
+
+- GitHub: https://github.com/Andrey15211/bot-orders-crm
+- Live Demo: https://bot-orders-crm.vercel.app
+
 Standalone bilingual portfolio case study: a mini CRM for handling Telegram bot development leads. It covers the full path from a public inquiry to qualification, pricing, internal notes, status management, and CSV export.
 
 ## Stack
