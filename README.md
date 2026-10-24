@@ -85,3 +85,11 @@ Deployed on Vercel with the Next.js preset. Real shared CRM persistence and prod
 ## Recommended GitHub Topics
 
 `crm` `lead-management` `telegram-bot` `nextjs` `typescript` `tanstack-table` `react-hook-form` `next-intl` `supabase` `vercel`
+
+---
+
+## Contact
+
+**Telegram:** [@andrey15211](https://t.me/andrey15211)  
+**Email:** andrejbadalin8@gmail.com  
+**GitHub:** [Andrey15211](https://github.com/Andrey15211)
